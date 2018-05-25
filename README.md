@@ -5,7 +5,7 @@ GCGen  (Global Constrained optimization problem Generator)
 
 Геренератор GCGen представялет собой библиотеку на языке C++, позволяющую генерировать задачи многоэкстремальной оптимизации с невыпуклыми ограничениями вида 
 
-min{φ(y):y∈D,g<sub>i</sub> (y)≤0,1≤i≤m}			
+min{φ(y): y ∈ D, g<sub>i</sub> (y) ≤ 0, 1 ≤ i ≤ m}			
 	
 D={y∈R<sup>N</sup>: a<sub>j</sub>≤y<sub>j</sub>≤b<sub>j</sub>,1≤j≤N}.
 	
